@@ -1,46 +1,36 @@
 <div align="center">
 
-  <!-- HEADER -->
-  <a href="https://git.io">
-    <img src="https://herokuapp.com" alt="Typing SVG" />
-  </a>
+<!-- 1. HEADER -->
+[![Typing SVG](https://herokuapp.com)](https://git.io)
 
-  <br/>
+<br/>
 
-  <!-- BADGES -->
-  <a href="https://open.spotify.com/artist/2xtpI2uVxIWuR6VkF3n6BM">
-    <img src="https://shields.io" height="35" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" height="35" />
-  </a>
+<!-- 2. BADGES -->
+[![Spotify](https://shields.io)](https://open.spotify.com/artist/2xtpI2uVxIWuR6VkF3n6BM)
+[![GitHub](https://shields.io)](https://github.com)
 
-  <br/><br/>
+<br/>
 
-  <!-- ICONS -->
-  <img src="https://skillicons.dev" />
+<!-- 3. ICONS -->
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
-  <br/><br/>
+<br/>
 
-  <!-- STATS DASHBOARD -->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://vercel.app" height="160" alt="Stats" />
-    <!-- YOUR LISTENING WIDGET (Replace YOUR_SPOTIFY_UID below) -->
-    <a href="https://open.spotify.com/artist/2xtpI2uVxIWuR6VkF3n6BM">
-      <img src="https://kittinanx.com" height="160" alt="Spotify" />
-    </a>
-  </div>
+<!-- 4. STATS (Standard Layout) -->
+[![GitHub Stats](https://vercel.app)](https://github.com)
 
-  <br/>
+<!-- 5. SPOTIFY WIDGET -->
+<!-- ⚠️ REPLACE 'YOUR_SPOTIFY_UID' BELOW WITH YOUR NUMERIC ID -->
+[![Spotify Vibe](https://kittinanx.com)](https://github.com)
 
-  <!-- TROPHIES -->
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Trophies" />
-  </a>
+<br/>
 
-  <br/><br/>
+<!-- 6. TROPHIES -->
+[![Trophies](https://vercel.app)](https://github.com)
 
-  <!-- FOOTER -->
-  <img src="https://komarev.com" alt="Views" />
+<br/>
+
+<!-- 7. FOOTER -->
+![Profile Views](https://komarev.com)
 
 </div>

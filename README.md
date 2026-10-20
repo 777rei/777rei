@@ -27,12 +27,12 @@
     <tr>
       <td align="center" width="50%">
         <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=777rei&show_icons=true&theme=radial" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=777rei&show_icons=true&theme=radial&cache=1" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <!-- LIVE Spotify Player -->
         <a href="https://open.spotify.com/artist/2xtpI2uVxIWuR6VkF3n6BM" target="_blank">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ftarn4kjszu6yisrh3znogi&cover_image=true&theme=novadark" alt="Spotify Live Player" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ftarn4kjszu6yisrh3znogi&cover_image=true&theme=novadark&cache=1" alt="Spotify Live Player" />
         </a>
       </td>
     </tr>
@@ -40,12 +40,12 @@
 
   <!-- 5. TROPHIES -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=777rei&theme=radical" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=777rei&theme=radical&cache=1" alt="Trophies" />
   </a>
 
   <br/><br/>
 
   <!-- 6. PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=777rei&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=777rei&color=blue&style=flat-square&cache=1" alt="Profile Views" />
 
 </div>
